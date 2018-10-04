@@ -1,2 +1,3 @@
 # hello-world
-exploration
+
+Hi there!
